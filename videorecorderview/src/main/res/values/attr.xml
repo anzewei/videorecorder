@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VideoRecorderView">
+        <attr name="cameraOpt" format="enum">
+            <!-- The camera device faces the opposite direction as the device's screen. -->
+            <enum name="back" value="0"/>
+            <!-- The camera device faces the same direction as the device's screen. -->
+            <enum name="front" value="1"/>
+        </attr>
+        <attr name="flashOn" format="boolean"/>
+        <attr name="videoSize" format="string"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="camera_permission_confirmation">拍照功能需要您打开相机权限。</string>
+    <string name="camera_permission_not_granted">无法获取相机权限</string>
+</resources>
